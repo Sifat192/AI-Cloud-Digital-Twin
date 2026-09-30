@@ -77,6 +77,17 @@ Actionable Recommendations
 
 ---
 
+## Project Architecture
+
+The diagram provides an overview of the AI Cloud Digital Twin
+project's components and how they connect.
+
+![AI Cloud Digital Twin architecture](digital-twin-architecture.png)
+
+[View full-size diagram](digital-twin-architecture.png)
+
+---
+
 ## Project Components
 
 ### 1. Digital Twin Dashboard
